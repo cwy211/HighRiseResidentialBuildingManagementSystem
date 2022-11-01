@@ -1,11 +1,11 @@
 # HighRiseResidentialBuildingManagementSystem-Backend
-Description:
+# Description:
 The aim of this project is to improve the management and maintenance of high rise residential buildings in Malaysia. The two user types are admin and residents.
 
-System Architecture:
+# System Architecture:
 The backend of the HRRBMS is developed using Spring Boot and Hibernate. JWT Tokens (Spring Security) are used for authentication and authorization of the system to enhance the security of the system. Stanford Core NLP is installed for categorisation of complaints and to perform sentiment analysis to anlyse the priority of the complaint.
 
-Steps:
+# Steps:
 1. Open MySQL(MySQL only) and create database with the name of hrrbms_database
 
 CREATE DATABASE hrrbms_database
